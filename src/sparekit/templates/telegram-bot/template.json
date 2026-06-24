@@ -1,0 +1,9 @@
+{
+  "title": "Telegram Bot",
+  "description": "An async Telegram bot starter with settings and command handlers.",
+  "tags": [
+    "bot",
+    "telegram",
+    "async"
+  ]
+}
