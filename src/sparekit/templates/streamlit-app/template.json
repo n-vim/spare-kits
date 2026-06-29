@@ -1,0 +1,9 @@
+{
+  "title": "Streamlit App",
+  "description": "A Streamlit dashboard starter with data helpers and tests.",
+  "tags": [
+    "streamlit",
+    "dashboard",
+    "data"
+  ]
+}
