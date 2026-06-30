@@ -1,0 +1,9 @@
+{
+  "title": "Python Package",
+  "description": "A reusable typed Python package with tests and src layout.",
+  "tags": [
+    "library",
+    "package",
+    "typing"
+  ]
+}
