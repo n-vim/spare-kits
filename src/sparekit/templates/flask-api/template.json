@@ -1,0 +1,9 @@
+{
+  "title": "Flask API",
+  "description": "A Flask API with blueprints, settings, tests, Docker, and CI.",
+  "tags": [
+    "api",
+    "flask",
+    "backend"
+  ]
+}
