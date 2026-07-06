@@ -1,0 +1,10 @@
+{
+  "title": "FastAPI API",
+  "description": "A clean FastAPI REST API with tests, Docker, and CI.",
+  "tags": [
+    "api",
+    "fastapi",
+    "backend"
+  ]
+}
+
