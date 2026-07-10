@@ -1,0 +1,9 @@
+{
+  "title": "Python CLI Tool",
+  "description": "A polished Typer CLI package with tests and packaging.",
+  "tags": [
+    "cli",
+    "typer",
+    "package"
+  ]
+}
