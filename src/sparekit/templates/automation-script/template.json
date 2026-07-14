@@ -1,0 +1,9 @@
+{
+  "title": "Automation Script",
+  "description": "A repeatable automation CLI for file, API, or scheduled jobs.",
+  "tags": [
+    "automation",
+    "cli",
+    "jobs"
+  ]
+}
